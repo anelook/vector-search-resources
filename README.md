@@ -23,3 +23,15 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 - [pgvector](https://github.com/pgvector/pgvector)
 - [langchain docs for OpenSearch](https://api.python.langchain.com/en/latest/vectorstores/langchain_community.vectorstores.opensearch_vector_search.OpenSearchVectorSearch.html)
 
+### Aiven for Apache Kafka
+**Register your Aiven for Apache Kafka service with extra credits at [Aiven](https://go.aiven.io/olena-sign-up).**
+
+### Follow more updates and articles from me
+
+LinkedIn: 
+- [https://www.linkedin.com/in/olenakutsenko/](https://www.linkedin.com/in/olenakutsenko/)
+
+Twitter:
+- [https://twitter.com/OlenaKutsenko](https://twitter.com/OlenaKutsenko)
+
+
