@@ -22,6 +22,8 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 - [Efficient filtering in OpenSearch vector engine](https://opensearch.org/blog/efficient-filters-in-knn/)
 - [pgvector](https://github.com/pgvector/pgvector)
 - [langchain docs for OpenSearch](https://api.python.langchain.com/en/latest/vectorstores/langchain_community.vectorstores.opensearch_vector_search.OpenSearchVectorSearch.html)
+- [On the Surprising Behavior of Distance Metric in High-Dimensional Space](https://www.researchgate.net/publication/30013021_On_the_Surprising_Behavior_of_Distance_Metric_in_High-Dimensional_Space)
+- [Dot Product is a Bad Distance Function](https://medium.josuakrause.com/dot-product-is-a-bad-distance-function-aff7667da6cc)
 
 ### Aiven for Apache Kafka
 **Register your Aiven for Apache Kafka service with extra credits at [Aiven](https://go.aiven.io/olena-sign-up).**
