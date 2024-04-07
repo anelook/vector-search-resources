@@ -18,12 +18,25 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 - [Github repo](https://github.com/Aiven-Labs/find-your-movie-clickhouse-vectorsearch)
 - [Article](https://aiven.io/developer/movie-recommender-clickhouse-huggingface-nextjs)
 
-## Articles
+## OpenSearch
+- [k-NN search](https://opensearch.org/docs/latest/search-plugins/knn/index/)
+- [Approximate k-NN search](https://opensearch.org/docs/latest/search-plugins/knn/approximate-knn/)
+- [k-NN search with filters](https://opensearch.org/docs/latest/search-plugins/knn/filter-search-knn)
 - [Efficient filtering in OpenSearch vector engine](https://opensearch.org/blog/efficient-filters-in-knn/)
-- [pgvector](https://github.com/pgvector/pgvector)
 - [langchain docs for OpenSearch](https://api.python.langchain.com/en/latest/vectorstores/langchain_community.vectorstores.opensearch_vector_search.OpenSearchVectorSearch.html)
+
+## PGVector
+- [pgvector](https://github.com/pgvector/pgvector)
+
+# Distance functions
 - [On the Surprising Behavior of Distance Metric in High-Dimensional Space](https://www.researchgate.net/publication/30013021_On_the_Surprising_Behavior_of_Distance_Metric_in_High-Dimensional_Space)
 - [Dot Product is a Bad Distance Function](https://medium.josuakrause.com/dot-product-is-a-bad-distance-function-aff7667da6cc)
+
+## Indexes
+- [Paper Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
+- [Understand Indexes in pgvector](https://stormatics.tech/blogs/understanding-indexes-in-pgvector)
+- 
+
 
 ### Aiven for Apache Kafka
 **Register your Aiven for Apache Kafka service with extra credits at [Aiven](https://go.aiven.io/olena-sign-up).**
