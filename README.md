@@ -35,7 +35,7 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 ## Indexes
 - [Paper Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
 - [Understand Indexes in pgvector](https://stormatics.tech/blogs/understanding-indexes-in-pgvector)
-- 
+- [How to Combine PCA and K-means Clustering in Python?](https://365datascience.com/tutorials/python-tutorials/pca-k-means/)
 
 
 ### Aiven for Apache Kafka
