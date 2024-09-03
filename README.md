@@ -40,6 +40,9 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 - [Understand Indexes in pgvector](https://stormatics.tech/blogs/understanding-indexes-in-pgvector)
 - [How to Combine PCA and K-means Clustering in Python?](https://365datascience.com/tutorials/python-tutorials/pca-k-means/)
 
+## RAG
+- [Developing memory-rich AI systems with Valkey™, OpenSearch® and RAG](https://aiven.io/developer/developing-memory-rich-ai-systems-with-valkey-opensearch-and-rag)
+
 ## Videos with code samples
 
 - [LangChain tutorial: connecting Amazon Bedrock LLM with OpenSearch](https://www.youtube.com/watch?v=u5EXpiwoHeo)
