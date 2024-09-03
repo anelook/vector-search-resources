@@ -31,7 +31,7 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 ## PGVector
 - [pgvector](https://github.com/pgvector/pgvector)
 
-# Distance functions
+## Distance functions
 - [On the Surprising Behavior of Distance Metric in High-Dimensional Space](https://www.researchgate.net/publication/30013021_On_the_Surprising_Behavior_of_Distance_Metric_in_High-Dimensional_Space)
 - [Dot Product is a Bad Distance Function](https://medium.josuakrause.com/dot-product-is-a-bad-distance-function-aff7667da6cc)
 
