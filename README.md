@@ -41,6 +41,7 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 - [How to Combine PCA and K-means Clustering in Python?](https://365datascience.com/tutorials/python-tutorials/pca-k-means/)
 
 ## Videos with code samples
+
 - [LangChain tutorial: connecting Amazon Bedrock LLM with OpenSearch](https://www.youtube.com/watch?v=u5EXpiwoHeo)
 - [Integrating Amazon Bedrock with pub/sub for AI agent communication](https://www.youtube.com/watch?v=Pf3OlrH3NLU)
 - [Real-time data processing with Apache Flink and RAG](https://www.youtube.com/watch?v=ity8bY3_uA4)
