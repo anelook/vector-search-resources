@@ -40,6 +40,12 @@ Find your perfect movie with ClickHouse®, vector search, Hugging Face API, and 
 - [Understand Indexes in pgvector](https://stormatics.tech/blogs/understanding-indexes-in-pgvector)
 - [How to Combine PCA and K-means Clustering in Python?](https://365datascience.com/tutorials/python-tutorials/pca-k-means/)
 
+## Videos with code samples
+- [LangChain tutorial: connecting Amazon Bedrock LLM with OpenSearch](https://www.youtube.com/watch?v=u5EXpiwoHeo)
+- [Integrating Amazon Bedrock with pub/sub for AI agent communication](https://www.youtube.com/watch?v=Pf3OlrH3NLU)
+- [Real-time data processing with Apache Flink and RAG](https://www.youtube.com/watch?v=ity8bY3_uA4)
+- [Ollama and LangChain.js for RAG](https://www.youtube.com/watch?v=3bz0nzs1tRA)
+- [Integrating Amazon Bedrock with pub/sub for AI agent communication](https://www.youtube.com/watch?v=Pf3OlrH3NLU)
 
 ### Aiven for Apache Kafka
 **Register your Aiven for Apache Kafka service with extra credits at [Aiven](https://go.aiven.io/devnexus-2024).**
