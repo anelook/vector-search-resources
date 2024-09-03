@@ -1,5 +1,8 @@
 # Contextual search with vector search: exploring your options with open source tools
-
+- [Ollama and LangChain.js for RA](https://www.youtube.com/watch?v=3bz0nzs1tRA)
+- [Real-time data processing with Apache Flink and RAG](https://www.youtube.com/watch?v=ity8bY3_uA4)
+- [LangChain tutorial: connecting Amazon Bedrock LLM with OpenSearch](https://www.youtube.com/watch?v=u5EXpiwoHeo)
+- [Integrating Amazon Bedrock with pub/sub for AI agent communication](https://www.youtube.com/watch?v=Pf3OlrH3NLU)
 
 ## Demos
 
